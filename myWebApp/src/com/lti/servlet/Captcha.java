@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class Captcha
  * line changed for git check history
- * line changed for conflict check
+ * line changed for conflict check s
  */
 @WebServlet("/Captcha")
 public class Captcha extends HttpServlet {
