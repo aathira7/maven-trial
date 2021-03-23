@@ -18,6 +18,7 @@ import javax.servlet.http.HttpServletResponse;
 
 /**
  * Servlet implementation class Captcha
+ * line changed for git check history
  */
 @WebServlet("/Captcha")
 public class Captcha extends HttpServlet {
